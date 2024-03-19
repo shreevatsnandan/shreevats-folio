@@ -1,0 +1,67 @@
+.abtme-img img{
+    height: 100%;
+    width: 100%;
+    }
+    
+    .aboutme{
+        background-color: rgba(255, 255, 255, 0.136);
+        display: flex;
+        margin: 22vh;
+        padding: 30px;
+    }
+    
+    .abtme-sub{
+        font-size: 20px;
+    }
+    
+    .abtme-stack{
+        margin-top: 15px;
+    }
+    
+    .abtme-stack b{
+        background-color: #A4907C;
+        margin-right: 10px;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    
+    @media screen and (max-width: 768px) {
+        .aboutme {
+            flex-direction: column;
+            align-items: center;
+        }
+    
+        .aboutme .abtme-txt {
+            margin-bottom: 1rem;
+        }
+    
+        .aboutme { 
+            margin: 2px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100vw;
+            background-color: rgba(245, 222, 179, 0);
+        }
+    
+        .abtme-head h1 {
+            font-size: 4rem;
+        }
+    
+        .abtme-sub {
+            font-size: 2rem;
+        }
+    
+        .abtme-stack{
+            font-size: 2em;
+            margin-bottom: 4px;
+        }
+    
+        .abtme-stack b {
+            font-size: 1em;
+            margin-right: 0.25rem; 
+            padding: 0.2rem 0.4rem;
+            border-radius: 0.3rem;
+        }
+    }
+    
