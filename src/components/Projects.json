@@ -27,7 +27,7 @@
       "dp": "./assets/calci1.png",
       "wlink": "https://shreevatsnandan.github.io/calculator/",
       "glink": "https://github.com/shreevatsnandan/calculator",
-      "pname": "Calcultor",
+      "pname": "Calculator",
       "tstack": ["HTML, CSS, JavaScript"],
       "pdesc": "The Calculator Web App, designed with HTML, CSS, and JavaScript, offers basic arithmetic functions. With intuitive controls, users can perform calculations efficiently on various devices."
     }
