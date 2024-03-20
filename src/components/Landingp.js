@@ -22,7 +22,7 @@ export default function Landingp() {
                     . Enthusiastic about diving into <b>new technologies </b>and expanding my skill set.
                 </div>
                 <div className='ldgp-btn-grp'>
-                <a href="resume.pdf"><button role="button">Resume</button></a>
+                <a href="shreevats-resume.pdf"><button role="button">Resume</button></a>
                     <button classname="btn1" role="button" onClick={() => scrollToSection('contact')}>Contact me</button>
                 </div>
 

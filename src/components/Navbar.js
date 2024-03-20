@@ -27,7 +27,7 @@ export default function Navbar() {
           </ul>
         </div>
         <div className='nav-resume'>
-        <a href="resume.pdf"><button role="button">Resume</button></a>
+        <a href="shreevats-resume.pdf"><button role="button">Resume</button></a>
         </div>
       </div>
     </div>
