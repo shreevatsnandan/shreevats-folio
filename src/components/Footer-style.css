@@ -1,51 +1,48 @@
 .nav-logo img{
-width: 80px;
-height: 80px;
+  width: 80px;
+  height: 80px;
 }
 
 .footer{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color:#493826 ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color:#493826 ;
 }
 
 .social-apps p{
-    font-weight: 700;
-
+  font-weight: 700;
 }
+
 .social-apps img{
-    margin-right: 8px;
-    width: 50px;
-height: 50px;
+  margin-right: 8px;
+  width: 50px;
+  height: 50px;
 }
 
-
-/* Add media query for smaller screens */
 @media (max-width: 600px) {
-    .footer {
-        flex-direction: column-reverse;
-        background-color: #49382600;/* Stack items vertically on smaller screens */
-      padding: 20px; /* Add padding for better spacing */
-    }
-  
-    .nav-logo {
-      margin-bottom: 20px; /* Add margin to separate logo from social icons */
-    }
-  
-    .social-apps {
-      display: flex;
-      flex-direction: column; /* Stack social icons vertically */
-      align-items: center; /* Center align social icons */
-    }
-  
-    .social-apps p {
-        font-size: 2EM;
-      margin-bottom: 10px; /* Add margin below "Connect with me" text */
-    }
-  
-    .social-apps img {
-      margin: 5px; /* Adjust margin for better spacing between social icons */
-    }
+  .footer {
+      flex-direction: column-reverse;
+      background-color: #49382600;
+      padding: 20px;
   }
-  
+
+  .nav-logo {
+      margin-bottom: 20px;
+  }
+
+  .social-apps {
+      display: flex;
+      flex-direction: column; 
+      align-items: center;
+  }
+
+  .social-apps p {
+      font-size: 2em;
+      margin-bottom: 10px; 
+  }
+
+  .social-apps img {
+      margin: 5px;
+  }
+}
