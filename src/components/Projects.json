@@ -1,4 +1,12 @@
 [
+   {
+    "dp": "./assets/quote1.png",
+    "wlink": "https://quotes-app-opal.vercel.app/",
+    "glink": "https://github.com/shreevatsnandan/Quotes-app",
+    "pname": "Quotes App",
+    "tstack": ["HTML, CSS, JavaScript, React"],
+    "pdesc": "The Quotes App fetches quotes, displays them, allows copying to clipboard, and adding/removing favorites."
+  },
   {
     "dp": "./assets/crypto1.png",
     "wlink": "https://cryptoflux-app.vercel.app/",
