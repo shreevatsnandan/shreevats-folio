@@ -30,22 +30,6 @@
       "pname": "Dice Game",
       "tstack": ["HTML, CSS, JavaScript, React"],
       "pdesc": "The Dice Game is a luck-based web app created with React, JavaScript, HTML, and CSS. Players select a face of the giant dice, aiming to match it for a win. The game records the number of turns, rewarding higher scores for fewer turns."
-    },
-    {
-      "dp": "./assets/todo1.png",
-      "wlink": "https://shreevatsnandan.github.io/todoList/",
-      "glink": "https://github.com/shreevatsnandan/todoList",
-      "pname": "to do List",
-      "tstack": ["HTML, CSS, JavaScript"],
-      "pdesc": "The To-Do List Web App, developed with HTML, CSS, and JavaScript, simplifies task management. Users can effortlessly add and delete tasks, ensuring efficient organization without the completion feature."
-    },
-    {
-      "dp": "./assets/calci1.png",
-      "wlink": "https://shreevatsnandan.github.io/calculator/",
-      "glink": "https://github.com/shreevatsnandan/calculator",
-      "pname": "Calculator",
-      "tstack": ["HTML, CSS, JavaScript"],
-      "pdesc": "The Calculator Web App, designed with HTML, CSS, and JavaScript, offers basic arithmetic functions. With intuitive controls, users can perform calculations efficiently on various devices."
     }
     
   ]
